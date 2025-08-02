@@ -1,0 +1,8 @@
+### Django ###
+*.pyc
+__pycache__/
+
+### Django.Python Stack ###
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
